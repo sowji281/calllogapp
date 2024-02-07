@@ -2,15 +2,29 @@
 
 A new Flutter project.
 
-## Getting Started
+# Flutter Call Log App
 
-This project is a starting point for a Flutter application.
+This Flutter app provides a modern and efficient way to view and manage your Android call logs.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* View all missed, received, and outgoing calls.
+
+* Search for specific calls by name or number.
+
+* Filter calls by date range.
+
+
+
+
+
+**Prerequisites:**
+
+Android Studio :                                                                                           
+https://developer.android.com/studio?gclid=CjwKCAiA8YyuBhBSEiwA5R3-E_LXi8ciWMvnRnb0mTL0i5HLb19tHm7TUERwLdoCDOvRZkrh-YyONhoCLUAQAvD_BwE&gclsrc=aw.ds
+flutter SDK :
+https://flutter.dev/?gclid=CjwKCAiA8YyuBhBSEiwA5R3-E58xsAbMQ1gG9JXrJaSnB3PaiIS7qISfEffZa96JyhJlekcPLqrjhhoCW4EQAvD_BwE&gclsrc=aw.ds
+
+
+
